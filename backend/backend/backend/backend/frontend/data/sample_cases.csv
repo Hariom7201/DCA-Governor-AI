@@ -1,0 +1,4 @@
+case_id,amount,days_overdue,dca
+1,50000,20,DCA_A
+2,120000,60,DCA_B
+3,80000,110,DCA_C
