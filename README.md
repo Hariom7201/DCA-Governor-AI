@@ -13,6 +13,13 @@ DCA-Governor AI introduces an autonomous AI governance layer that:
 - Enforces SOPs automatically
 - Provides real-time analytics
 
+## Repository Structure
+- backend/: API, AI logic, SOP engine
+- frontend/: Streamlit-based UI
+- data/: Sample datasets
+- models/: Trained / placeholder ML models
+- architecture/: System design and diagrams
+
 ## Tech Stack
 - Backend: Python, FastAPI
 - ML: Scikit-learn
@@ -21,3 +28,8 @@ DCA-Governor AI introduces an autonomous AI governance layer that:
 
 ## Status
 Prototype / MVP for FedEx SMART Hackathon (IIT Madras)
+
+## Note to Evaluators
+This repository contains a working MVP prototype and architectural foundation.
+Code may be enhanced further until one day before the final round as per hackathon rules.
+
